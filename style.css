@@ -1,0 +1,36 @@
+#div2{
+	background-color: white;
+	width: 33%;
+	height: 900px;
+	float: left;
+	color: darkgreen;
+	margin: 0 auto;
+}
+
+#div1{
+	background-color: white;
+	width: 66%;
+	float: right;
+	height: 900px;
+}
+
+html{
+	font-family: 'Lato';
+}
+
+.h1{
+	color: darkgreen;
+}
+
+a{
+	color: darkgreen;
+	text-decoration: none
+}
+
+footer{
+	flex-shrink: 0;
+	border-top: 5px black;
+	width: 100%
+	background: white;
+	color: #333
+}

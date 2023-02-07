@@ -1,0 +1,33 @@
+.menu{
+	background: white;
+	width: 100%;
+	height: 66px;
+	line-height: 66px;
+}
+
+.m-left{
+	float: left;
+}
+
+.m-right{
+	float: right;
+}
+
+.logo{
+	margin: 0;padding: 0;
+	width: 4%;
+}
+
+.connexion{
+	color: black;
+}
+
+.inscription{
+	background-color: black;
+	color: white;
+}
+
+.link__header{
+	color: black;
+}
+
